@@ -1,0 +1,50 @@
+{
+    "codes" : [
+        {
+            "id" : 1,
+            "title" : "map console",
+            "description" : "code js pour tester map.",
+            "extention" : "js",
+            "file" : "forconsole",
+            "motscles" : [
+                {"idtermes" : 1, "tf" : 0.0909090909},
+                {"idtermes" : 2, "tf" : 0.18181818181},
+                {"idtermes" : 3, "tf" : 0.0909090909},
+                {"idtermes" : 4, "tf" : 0.0909090909},
+                {"idtermes" : 5, "tf" : 0.0909090909},
+                {"idtermes" : 6, "tf" : 0.0909090909},
+                {"idtermes" : 7, "tf" : 0.18181818181},
+                {"idtermes" : 8, "tf" : 0.0909090909},
+                {"idtermes" : 9, "tf" : 0.0909090909}
+
+            ]
+
+        },
+
+        {
+            "id" : 2,
+            "title" : "api csharp httpget",
+            "description" : "code csharp methode addbook",
+            "extention" : "cs",
+            "file" : "httpgetbooks",
+            "motscles" : [
+                {"idtermes" : 10, "tf" : 0.04166666666},
+                {"idtermes" : 11, "tf" : 0.33333333333},
+                {"idtermes" : 12, "tf" : 0.08333333333},
+                {"idtermes" : 13, "tf" : 0.08333333333},
+                {"idtermes" : 14, "tf" : 0.04166666666},
+                {"idtermes" : 15, "tf" : 0.04166666666},
+                {"idtermes" : 16, "tf" : 0.04166666666},
+                {"idtermes" : 17, "tf" : 0.04166666666},
+                {"idtermes" : 18, "tf" : 0.04166666666},
+                {"idtermes" : 19, "tf" : 0.04166666666},
+                {"idtermes" : 20, "tf" : 0.04166666666},
+                {"idtermes" : 21, "tf" : 0.04166666666},
+                {"idtermes" : 22, "tf" : 0.08333333333},
+                {"idtermes" : 23, "tf" : 0.04166666666}
+
+            ]
+
+        }
+    ]
+}

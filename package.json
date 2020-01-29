@@ -1,0 +1,16 @@
+{
+  "name": "codememory",
+  "version": "0.1.0",
+  "description": "a test api for lowDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hafaiz ARCHADI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.2"
+  }
+}

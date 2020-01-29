@@ -1,0 +1,28 @@
+{
+    "motcles" : [
+        {"id" : 1, "terme" : "const", "idf" : 0.47712125472},
+        {"id" : 2, "terme" : "tab", "idf" : 0.47712125472},
+        {"id" : 3, "terme" : "xx", "idf" : 0.47712125472},
+        {"id" : 4, "terme" : "tt", "idf" : 0.47712125472},
+        {"id" : 5, "terme" : "ff", "idf" : 0.47712125472},
+        {"id" : 6, "terme" : "map", "idf" : 0.47712125472},
+        {"id" : 7, "terme" : "x", "idf" : 0.47712125472},
+        {"id" : 8, "terme" : "console", "idf" : 0.47712125472},
+        {"id" : 9, "terme" : "log", "idf" : 0.47712125472},
+        {"id" :10 , "terme" : "httppost", "idf" : 0.47712125472},
+        {"id" : 11, "terme" : "book", "idf" : 0.47712125472},
+        {"id" : 12, "terme" : "addbook", "idf" : 0.47712125472},
+        {"id" : 13, "terme" : "id", "idf" : 0.47712125472},
+        {"id" : 14, "terme" : "bookstore", "idf" : 0.47712125472},
+        {"id" : 15, "terme" : "created", "idf" : 0.47712125472},
+        {"id" : 16, "terme" : "urihardcodee", "idf" : 0.47712125472},
+        {"id" : 17, "terme" : "createdataction", "idf" : 0.47712125472},
+        {"id" : 18, "terme" : "nameof", "idf" : 0.47712125472},
+        {"id" : 19, "terme" : "getbook", "idf" : 0.47712125472},
+        {"id" :20 , "terme" : "public", "idf" : 0.47712125472},
+        {"id" :21 , "terme" : "actionresult", "idf" : 0.47712125472},
+        {"id" :22 , "terme" : "return", "idf" : 0.47712125472},
+        {"id" :23 , "terme" : "new", "idf" : 0.47712125472}
+
+    ]
+}
