@@ -3,6 +3,7 @@ const express = require('express');
 const bodyparser = require('body-parser');
 
 const motsclesControllers = require('./controllers/motsclesController')
+const codesController = require('./controllers/codesController')
 
 // Instantiate server
 var server = express();
@@ -26,3 +27,4 @@ server.listen(8080, function(){
 
 //routes
 server.use('/keyswords', motsclesControllers);
+server.use('/codes', codesController);
