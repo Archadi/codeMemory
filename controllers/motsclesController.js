@@ -29,11 +29,11 @@ router.get('/id/:id', (req,res)=>{
 
 //get by word
 router.get('/word/:word', (req,res)=>{
-    const motscle = db.get('motcles')
-    .find({ terme: req.params.word })
+    const motscles = db.get('motcles')
+    .filter(function(m) { return m.terme.includes(req.params.word); })
     .value()
 
-    res.json(motscle)
+    res.json(motscles)
 })
 
 /*router.get('/:id', (req,res)=>{  
@@ -45,5 +45,6 @@ router.get('/word/:word', (req,res)=>{
         }
     });
 });*/
+
 
 module.exports = router
